@@ -66,11 +66,12 @@
     <properties>
         <jersey-version>1.19</jersey-version>
         <jodatime-version>2.3</jodatime-version>
-        <swagger-version>1.5.12</swagger-version>
+        <swagger-version>1.5.16</swagger-version>
         <jackson-version>2.8.5</jackson-version>
         <junit-version>4.12</junit-version>
         <DoNotRunSamples>true</DoNotRunSamples>
-        <swagger-parser.version>1.0.26</swagger-parser.version>
+        <swagger-parser.version>2.0.14</swagger-parser.version>
+        <swagger-codegen.version>2.2.3</swagger-codegen.version>
     </properties>
 
     <build>

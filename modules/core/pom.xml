@@ -13,7 +13,6 @@
     <name>swagger-assert4j-core</name>
 
     <properties>
-        <swagger-codegen.version>2.1.6</swagger-codegen.version>
         <swagger.url>https://api.swaggerhub.com/apis/smartbear/ready-api-testserver/2.1.0</swagger.url>
         <swagger.directory>${project.basedir}/src/main/resources</swagger.directory>
         <swagger.file>swagger.json</swagger.file>
