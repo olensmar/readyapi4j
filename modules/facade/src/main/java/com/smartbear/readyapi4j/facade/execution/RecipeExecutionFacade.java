@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.nio.charset.Charset;
 
 /**
- * Utility for running recipes either locally or on a remote TestEngine based on system/env property values<br/>
+ * Utility for running recipes either locally or on a remote TestEngine based on system/env property values
  * <p>
  * If a <code>testengine.endpoint</code> system or environment property is available and contains a valid URL
  * remote execution will be used by the executeRecipe method. The values of
