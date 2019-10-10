@@ -56,7 +56,7 @@ Learn more about the Java testing vocabulary by:
 - having a look at the [core module](modules/core)
 - having a look at the [java samples](modules/samples/java/src/test/java/com/smartbear/readyapi4j/samples/java)
 - having a look at the [core unit tests](modules/core/src/test/java/com/smartbear/readyapi4j)
-- [browsing the javadoc](http://smartbear.github.io/readyapi4j/apidocs/) 
+- [browsing the javadoc](apidocs) 
 
 ## Getting Started with Groovy 
 
